@@ -27,7 +27,7 @@
 ---
 ## 3. Hướng dẫn tải và cài đặt
 1. **Tải bộ cài đặt:**
-   * Truy cập https://drive.google.com/file/d/1oRwTnurNevBYxrR8e_91RKQHeXJEtUUh/view?usp=sharing và tải về tệp n **`GDT_TCHD_Setup_v1.2.0.exe`**.
+   * Truy cập https://drive.google.com/file/d/1oRwTnurNevBYxrR8e_91RKQHeXJEtUUh/view?usp=sharing và tải về tệp **`GDT_TCHD_Setup_v1.2.0.exe`**.
 2. **Chạy trình cài đặt:**
    * Mở tệp **`GDT_TCHD_Setup_v1.2.0.exe`**.
    * Nếu Windows hiển thị thông báo bảo vệ **Windows SmartScreen** (*"Windows protected your PC"*):
